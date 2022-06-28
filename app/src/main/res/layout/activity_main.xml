@@ -47,7 +47,7 @@
             android:text="c" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/bt_divisao"
+            android:id="@+id/divisao"
             style="@style/Operators_Button"
             android:text="÷" />
 
@@ -75,7 +75,7 @@
             android:text="9" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/bt_multiplicacao"
+            android:id="@+id/multiplicacao"
             style="@style/Operators_Button"
             android:text="x" />
 
@@ -103,7 +103,7 @@
             android:text="6" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/bt_subtracao"
+            android:id="@+id/subtracao"
             style="@style/Operators_Button"
             android:text="_" />
 
@@ -131,7 +131,7 @@
             android:text="3" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/bt_soma"
+            android:id="@+id/soma"
             style="@style/Operators_Button"
             android:text="+" />
 
