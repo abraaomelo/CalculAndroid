@@ -44,7 +44,7 @@
             android:id="@+id/bt_limpar"
             style="@style/Operators_Button"
             android:layout_weight="3"
-            android:text="C" />
+            android:text="c" />
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/bt_divisao"
